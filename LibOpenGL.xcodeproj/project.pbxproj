@@ -28,6 +28,7 @@
 		6433AF3427BB7E3100778619 /* libLibOpenGL.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLibOpenGL.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6433AF3727BB7E3100778619 /* LibOpenGL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LibOpenGL.h; sourceTree = "<group>"; };
 		6433AF3827BB7E3100778619 /* LibOpenGL.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LibOpenGL.m; sourceTree = "<group>"; };
+		6433AF4027BB831E00778619 /* libOpenGL.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = libOpenGL.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		6433AF2B27BB7E3100778619 = {
 			isa = PBXGroup;
 			children = (
+				6433AF4027BB831E00778619 /* libOpenGL.podspec */,
 				6433AF3627BB7E3100778619 /* LibOpenGL */,
 				6433AF3527BB7E3100778619 /* Products */,
 			);
